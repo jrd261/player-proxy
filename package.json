@@ -1,0 +1,17 @@
+{
+  "name": "player-proxy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.13.4",
+    "express-http-proxy": "^0.6.0",
+    "nodemon": "^1.9.1"
+  }
+}
